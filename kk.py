@@ -18,7 +18,7 @@ st.title("🏠 Nashville Housing SQL Cleaning (Step-by-Step Output)")
 
 @st.cache_data
 def load_data():
-    return pd.read_excel('/Users/sparshsingh/Desktop/JOB/PROJECTS/PROJECT 2/DATA/Nashville Housing Data for Data Cleaning.xlsx')
+    return pd.read_excel('DATA/Nashville Housing Data for Data Cleaning.xlsx')
 
 df = load_data()
 
