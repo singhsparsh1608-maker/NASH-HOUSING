@@ -24,16 +24,6 @@ This project explores the **Nashville Housing Dataset** using **SQL** and **Pyth
 * Streamlit
 * Git & GitHub
 
-##  Project Files
-
-```text
-📁 data/        → Dataset
-📁 sql/         → SQL cleaning & analysis queries
-📁 assets/      → Images and resources
-📄 app.py       → Streamlit dashboard
-📄 README.md
-```
-
 ##  Key Takeaway
 
 This project demonstrates an end-to-end data analysis workflow—from cleaning raw data to uncovering insights and presenting them in an interactive dashboard.
